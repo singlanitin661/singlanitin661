@@ -34,7 +34,8 @@ Sure, here's an updated list of technologies:
 
 <h3> 🧑‍💻 &nbsp;Top Languages</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singlanitin661&layout=compact&theme=react" />
-
+<br/>
+<!--
 <h3> 📈 &nbsp;Commit Stats</h3>
 
 <a href="https://github.com/singlanitin661">
@@ -48,9 +49,8 @@ Sure, here's an updated list of technologies:
 <a href="https://github.com/singlanitin661">
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=singlanitin661&theme=react-dark" />
 </a>
-
 <br/>
-
+-->
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
