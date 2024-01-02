@@ -33,7 +33,7 @@ Sure, here's an updated list of technologies:
 
 
 <h3> 🧑‍💻 &nbsp;Top Languages</h3>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singlanitin661&layout=compact&theme=react" />
 
 <h3> 📈 &nbsp;Commit Stats</h3>
 
